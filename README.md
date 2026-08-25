@@ -22,7 +22,7 @@ This repository contains all four completed tasks for the **Oasis Infobyte Data 
 
 ### 📧 Task 4: Email Spam Detection with Machine Learning
 * **Objective:** Classify emails as "Ham" (Legitimate) or "Spam".
-* **Techniques:** TF-IDF Vectorization, Multinomial Naïve Bayes, Support Vector Machine (SVM).
+* **Techniques:** TF-IDF Vectorization, Multinomial Naïve Bayes.
 * **Evaluation:** Confusion Matrix, Precision, Recall, F1-Score, Accuracy.
 
 ---
